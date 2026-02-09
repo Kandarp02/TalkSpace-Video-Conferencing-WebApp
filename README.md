@@ -180,19 +180,57 @@ User → Login → Create/Join Meeting → Video Session → Chat → Data Store
 
 ---
 
-# 📸 Screenshots
+## 📸 Application Screenshots
 
-(Add your screenshots in the **screenshots** folder)
+> Below are real UI screenshots of the TalkSpace application.
 
-- Home Page  
-- Register Page  
-- Login Page  
-- Meeting Room  
-- Participants View  
-- Chat Room  
-- Screen Sharing  
+### Home & Authentication
+
+<p align="center">
+  <img src="screenshots/home.png" width="45%">
+  <img src="screenshots/register.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%">
+  <img src="screenshots/generate-meeting.png" width="45%">
+</p>
 
 ---
+
+### Meeting Flow
+
+<p align="center">
+  <img src="screenshots/waiting-room.png" width="45%">
+  <img src="screenshots/meeting-joined.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/chat-room.png" width="45%">
+</p>
+
+---
+
+### Collaboration Features
+
+<p align="center">
+  <img src="screenshots/share-screen.png" width="45%">
+  <img src="screenshots/leave-meeting.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/room-member.png" width="45%">
+</p>
+
+---
+
+### Database View
+
+<p align="center">
+  <img src="screenshots/db1.png" width="45%">
+  <img src="screenshots/db2.png" width="45%">
+</p>
+
 
 # 🧪 Testing
 
